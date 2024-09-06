@@ -1,1 +1,0 @@
-# Database-Design-for-E-Commerce-Growth
